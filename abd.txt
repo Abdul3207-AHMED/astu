@@ -2,3 +2,7 @@ This is my first file on git
 
 
 I loved this platform 
+
+
+
+i have made some edition on my txt file
